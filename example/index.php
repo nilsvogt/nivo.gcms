@@ -1,4 +1,4 @@
-<!doctype !html>
+<!doctype html>
 <?PHP
 	require('../src/gcms.class.php');
 
