@@ -16,8 +16,6 @@
 	<title>nivo gcms example</title>
 </html>
 <body>
-
-
 	<p><?= $sheet1['intro'] ?></p>
 	<pre><?= $sheet1['howto'] ?></pre>
 
