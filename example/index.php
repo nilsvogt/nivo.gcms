@@ -1,5 +1,4 @@
 <!doctype !html>
-
 <?PHP
 	require('../src/gcms.class.php');
 
@@ -13,6 +12,7 @@
 	$sheet2 = $gcms->getContents('cachefile-sheet2.txt', '1uZY1LNd4id-l8DElqVMQoam24HK1rGDwKXZEfr_0FbI', 134327007);
 ?>
 <html>
+	<meta charset="utf-8" />
 	<title>nivo gcms example</title>
 </html>
 <body>
