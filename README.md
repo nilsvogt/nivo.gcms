@@ -14,7 +14,7 @@ How to
 	$gcms = new Nivo\GCMS();
 
 	// Assign A Custom Storage Folder For The Cached Contents
-	$gcms->storage = __DIR__ . ""/storage/gcms/"";
+	$gcms->storage = __DIR__ . "/storage/gcms/";
 
 	// Get The Contents Of The Two Worksheets
 	$sheet1 = $gcms->getContents('cachefile-sheet1.txt', '1uZY1LNd4id-l8DElqVMQoam24HK1rGDwKXZEfr_0FbI', 0);
